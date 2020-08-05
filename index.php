@@ -151,7 +151,7 @@ require_once('api/index.php'); ?>
                     </div>
                 <?php } ?>
             </div>
-            <div class="row justify-content-around col-8 border-solid border border-gray-400 rounded-lg p-3" style="height: 80vh;">
+            <div class="row justify-content-around col-8 border-solid border border-gray-400 rounded-lg p-3" style="height: 80vh; overflow: auto;">
                 <div id="gen-con" class="col-6">
                     <h4>General Contacts</h4>
                     <div class="">
